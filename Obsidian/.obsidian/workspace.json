@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. Templates/Blog Note.md",
+                "file": "9. Sandbox/placeholder.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. Templates/Blog Note.md",
+                "file": "9. Sandbox/placeholder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. Templates/Blog Note.md",
+                "file": "9. Sandbox/placeholder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. Templates/Blog Note.md"
+                "file": "9. Sandbox/placeholder.md"
               }
             }
           },
@@ -202,6 +202,20 @@
   },
   "active": "e8531630c7c77d88",
   "lastOpenFiles": [
+    "8. Archives/placeholder.md",
+    "9. Sandbox/placeholder.md",
+    "7. Resources/Scripts/placeholder.md",
+    "7. Resources/Literature/placeholder.md",
+    "7. Resources/Images/placeholder.md",
+    "7. Resources/Files/placeholder.md",
+    "7. Resources/placeholder.md",
+    "6. Areas/placeholder.md",
+    "5. Projects/placeholder.md",
+    "3. Fleetings/placeholder.md",
+    "4. Journals/Untitled.md",
+    "2. Atoms/placeholder.md",
+    "4. Journals/2024/Daily/July 29th, 2024.md",
+    "10. Templates/Blog Note.md",
     "10. Templates/Atomic Note.md",
     "1. Atlas/Tasks.md",
     "1. Atlas/Projects Atlas.md",
@@ -212,22 +226,8 @@
     "1. Atlas/Homepage I.md",
     "1. Atlas/Canvas Atlas.md",
     "1. Atlas/Books Atlas.md",
-    "4. Journals/2024/Daily/July 29th, 2024.md",
     "4. Journals/Life.md",
     "4. Journals/2024/Week/2024, 31st Week.md",
-    "4. Journals/2024/Month/July, 2024.md",
-    "10. Templates/Week Note.md",
-    "10. Templates/Tagged Note.md",
-    "10. Templates/Project Template.md",
-    "10. Templates/Reference Note.md",
-    "10. Templates/Project Proposal Note.md",
-    "10. Templates/People Template.md",
-    "10. Templates/Old Week Note.md",
-    "10. Templates/Notebook CSS Classes.md",
-    "10. Templates/Month and Year Note.md",
-    "10. Templates/Meeting Note.md",
-    "10. Templates/Media Note.md",
-    "10. Templates/Map of Content.md",
     "10. Templates/Draft Canvas.canvas",
     "7. Resources/Images/flower.gif",
     "7. Resources/Images/diamond.gif",
