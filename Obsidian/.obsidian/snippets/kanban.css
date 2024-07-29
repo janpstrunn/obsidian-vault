@@ -1,0 +1,27 @@
+.theme-dark .view-content .kanban-plugin::after {
+  content: "";
+  position: fixed;
+  background-image: url(https://media.tenor.com/O5-9NwLytp4AAAAd/minimoss-pixel-art.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  filter: blur(0px) brightness(70%) saturate(100%);
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  z-index: -1;
+}
+
+.theme-light .view-content .kanban-plugin::after {
+  content: "";
+  position: fixed;
+  background-image: url(https://media.tenor.com/O5-9NwLytp4AAAAd/minimoss-pixel-art.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  filter: blur(0px) brightness(70%) saturate(100%);
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  z-index: -1;
+}

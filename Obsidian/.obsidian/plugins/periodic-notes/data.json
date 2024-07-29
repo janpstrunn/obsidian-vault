@@ -1,0 +1,34 @@
+{
+  "showGettingStartedBanner": false,
+  "hasMigratedDailyNoteSettings": true,
+  "hasMigratedWeeklyNoteSettings": false,
+  "daily": {
+    "format": "MMMM Do, YYYY",
+    "folder": "2. Areas/Journalling/2024",
+    "enabled": true,
+    "template": "1. Projects/Zettelkasten/Templates/Diary Note.md"
+  },
+  "weekly": {
+    "format": "gggg, wo [Week]",
+    "template": "",
+    "folder": "2. Areas/Journalling/2024",
+    "enabled": true
+  },
+  "monthly": {
+    "format": "MMMM YYYY",
+    "template": "1. Projects/Zettelkasten/Templates/Month Template.md",
+    "folder": "2. Areas/Journalling/2024",
+    "enabled": true
+  },
+  "quarterly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  },
+  "yearly": {
+    "format": "",
+    "template": "1. Projects/Zettelkasten/Templates/Month Template.md",
+    "folder": "2. Areas/Journalling",
+    "enabled": true
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1718997962691,
+      "path": "1. Projects/Inbox.md",
+      "title": "Inbox"
+    },
+    {
+      "type": "file",
+      "ctime": 1719014725935,
+      "path": "1. Projects/Kanban - Todo List.md",
+      "title": "Todo List"
+    },
+    {
+      "type": "file",
+      "ctime": 1720477629708,
+      "path": "1. Projects/Dashboard/Homepage.md",
+      "title": "Homepage"
+    },
+    {
+      "type": "graph",
+      "ctime": 1720564395853,
+      "title": "No Journal",
+      "options": {
+        "collapse-filter": false,
+        "search": "-path:\"2. Areas/Journalling\"  ",
+        "showTags": false,
+        "showAttachments": false,
+        "hideUnresolved": false,
+        "showOrphans": true,
+        "collapse-color-groups": false,
+        "colorGroups": [
+          {
+            "query": "path:\"2. Areas/Journalling\"  ",
+            "color": {
+              "a": 1,
+              "rgb": 14701138
+            }
+          },
+          {
+            "query": "tag:#people  ",
+            "color": {
+              "a": 1,
+              "rgb": 3206679
+            }
+          }
+        ],
+        "collapse-display": true,
+        "showArrow": false,
+        "textFadeMultiplier": 0,
+        "nodeSizeMultiplier": 1,
+        "lineSizeMultiplier": 1,
+        "collapse-forces": true,
+        "centerStrength": 0.518713248970312,
+        "repelStrength": 10,
+        "linkStrength": 1,
+        "linkDistance": 250,
+        "scale": 0.2962962962962954,
+        "close": false
+      }
+    }
+  ]
+}

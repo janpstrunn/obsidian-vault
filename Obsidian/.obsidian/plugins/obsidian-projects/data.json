@@ -1,0 +1,242 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "tag",
+        "config": {
+          "tag": "#people",
+          "hierarchy": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "orderFields": [
+              "name",
+              "contact",
+              "degree",
+              "phone",
+              "tags",
+              "website"
+            ],
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              },
+              "avatar": {
+                "hide": true
+              },
+              "degree": {
+                "width": 256
+              },
+              "tags": {
+                "hide": true
+              }
+            }
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": [
+              {
+                "field": "name",
+                "order": "asc",
+                "enabled": true
+              }
+            ]
+          },
+          "id": "62d4b662-1e05-41ba-9c43-e15ca3b82a0b",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {
+            "coverField": "avatar",
+            "fitStyle": "contain",
+            "cardWidth": 200
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "d14a3c24-1abb-4782-804b-5a91e53e5367",
+          "name": "Gallery",
+          "type": "gallery"
+        }
+      ],
+      "id": "ada9de62-75df-47cb-9a35-414ae2bf351d",
+      "name": "People"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "tag",
+        "config": {
+          "tag": "#book",
+          "hierarchy": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              },
+              "cover": {
+                "hide": true
+              }
+            },
+            "orderFields": [
+              "name",
+              "author",
+              "tags",
+              "aliases"
+            ]
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "bc3cbf3f-f78e-4603-8ea7-f099beff7034",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {
+            "coverField": "cover",
+            "fitStyle": "contain",
+            "cardWidth": 200,
+            "includeFields": []
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "18684d65-d91d-4d48-9074-dacc259a11a0",
+          "name": "Gallery",
+          "type": "gallery"
+        }
+      ],
+      "id": "015801ea-d017-4ebf-a2c9-7cabc7b0e7a3",
+      "name": "Books"
+    },
+    {
+      "fieldConfig": {
+        "status": {
+          "options": [
+            "DONE"
+          ]
+        }
+      },
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "tag",
+        "config": {
+          "tag": "#project",
+          "hierarchy": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "0bb0637e-05d5-448a-851e-44ce2df8b974",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {
+            "groupByField": "status",
+            "columns": {
+              "DONE": {
+                "records": [
+                  "4. Archives/Finished Projects/My Biggest Ever Project.md"
+                ],
+                "weight": 0
+              },
+              "TODO": {
+                "records": [
+                  "1. Projects/Zettelkasten Implementation.md"
+                ],
+                "weight": 1
+              }
+            }
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "52f887ec-eeb6-4cb6-a129-2701bf18943f",
+          "name": "Board",
+          "type": "board"
+        }
+      ],
+      "id": "19f68fba-c0bb-4d89-8d20-54e3b7f39d4c",
+      "name": "Projects"
+    }
+  ],
+  "archives": [],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "commands": [],
+    "linkBehavior": "open-editor"
+  }
+}
