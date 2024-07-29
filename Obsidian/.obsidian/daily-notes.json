@@ -1,4 +1,6 @@
 {
   "format": "MMMM Do, YYYY",
-  "folder": "2. Areas/Journalling/2024"
+  "folder": "4. Journals/2024/Daily",
+  "template": "10. Templates/Journal Note",
+  "autorun": true
 }

@@ -1,6 +1,6 @@
 {
   "promptDelete": false,
-  "attachmentFolderPath": "3. Resources/Images",
+  "attachmentFolderPath": "3. Fleetings",
   "alwaysUpdateLinks": true,
   "vimMode": false,
   "pdfExportSettings": {
@@ -16,8 +16,8 @@
   "propertiesInDocument": "visible",
   "showLineNumber": false,
   "newFileLocation": "folder",
-  "newFileFolderPath": "1. Projects/Fleetings",
+  "newFileFolderPath": "3. Fleetings",
   "showRibbon": true,
   "useMarkdownLinks": false,
-  "showIndentGuide": false
+  "showIndentGuide": true
 }

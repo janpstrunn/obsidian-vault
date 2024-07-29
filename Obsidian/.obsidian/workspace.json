@@ -1,27 +1,22 @@
 {
   "main": {
-    "id": "c39f8b4dbf7d4922",
+    "id": "ebfe2c4c600d5f3f",
     "type": "split",
     "children": [
       {
-        "id": "0e09c087e9840e8f",
+        "id": "9b67135600ad8633",
         "type": "tabs",
         "children": [
           {
-            "id": "a5c7ec23299603b1",
+            "id": "e8531630c7c77d88",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Homepage.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "10. Templates/Blog Note.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -31,15 +26,16 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e09bc3a78cb3e488",
+    "id": "0b8a368e035fd91f",
     "type": "split",
     "children": [
       {
-        "id": "7a0e04affc9dbccf",
+        "id": "7fea3a418f737912",
         "type": "tabs",
+        "dimension": 73.31759149940969,
         "children": [
           {
-            "id": "07359be91054472c",
+            "id": "4861b16e29349f67",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -49,12 +45,12 @@
             }
           },
           {
-            "id": "fbed0a77a2b18afa",
+            "id": "cf8145e718779b09",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#TODO",
+                "query": "color",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,9 +58,16 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "54ecfde85c8c1b6e",
+        "type": "tabs",
+        "dimension": 26.682408500590316,
+        "children": [
           {
-            "id": "983b5fc35aeca3e2",
+            "id": "d45141634c1fe49b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -75,47 +78,47 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5110321044922
+    "width": 300
   },
   "right": {
-    "id": "f8fe1cd210ff4dfe",
+    "id": "f6d98f067b48ec67",
     "type": "split",
     "children": [
       {
-        "id": "dbaecb923e043058",
+        "id": "9902205829607587",
         "type": "tabs",
         "children": [
           {
-            "id": "61b17fa280006527",
+            "id": "0facdcf85d672656",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homepage.md",
+                "file": "10. Templates/Blog Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "d543c7406298a79b",
+            "id": "e7834775a9a3e287",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homepage.md",
+                "file": "10. Templates/Blog Note.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "a0ff85dbc9f22b6d",
+            "id": "caa437cb78dccc69",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -126,15 +129,7 @@
             }
           },
           {
-            "id": "383861ede521bede",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "b9a5db2cfbf59da8",
+            "id": "932dbc9326d1096b",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -144,130 +139,120 @@
                 "searchQuery": ""
               }
             }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "8b94108f5e203ba2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "44e68b2154b40c5c",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Homepage.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.41134231415477324,
-                  "close": true
-                }
-              }
-            }
           },
           {
-            "id": "2c8924af949c8ddd",
+            "id": "1a5e486edd639be9",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homepage.md"
+                "file": "10. Templates/Blog Note.md"
               }
+            }
+          },
+          {
+            "id": "430a04e244473870",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "4ffb4549274a7252",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54c2a53933744d49",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 293.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "audio-recorder:Start/stop recording": false,
-      "canvas:Create new canvas": false,
-      "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "random-note:Open random note": false,
+      "flashcards-obsidian:Generate flashcards": false,
+      "janitor:Janitor: scan vault": false,
+      "obsidian-kanban:Create new board": false,
       "obsidian-projects:Open projects": false,
       "obsidian-omnivore:Omnivore": false,
-      "flashcards-obsidian:Generate flashcards": false,
-      "obsidian-kanban:Create new board": false,
-      "periodic-notes:Open today": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "periodic-notes:Open today": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "44e68b2154b40c5c",
+  "active": "e8531630c7c77d88",
   "lastOpenFiles": [
-    "Homepage.md",
-    "Templates/Literature Note.md",
-    "Templates/Book Template.md",
-    "Templates/Atomic Note.md",
-    "flower.gif",
-    "Markdown & LaTeX Cheatsheat (Basics).md",
-    "Templates/Reference Note.md",
-    "Templates/People Template.md",
-    "Templates/Month Template.md",
-    "Templates/Project Template.md",
-    "Templates/Diary Note.md",
-    "Templates/Tagged Note.md",
-    "Templates/Daily Template.md",
-    "Templates",
-    "diamond.gif",
-    "book.gif",
-    "Untitled.md",
-    "1. Projects/Zettelkasten/Atoms/Vivian Prado.md",
-    "1. Projects/Fleetings/Zettelkasten.md",
-    "1. Projects/Fleetings/Table of Tips.md",
-    "1. Projects/Fleetings/Youtube Channels.md",
-    "1. Projects/Fleetings/Universe of Code.md",
-    "1. Projects/Fleetings/Tor Bridges.md",
-    "1. Projects/Fleetings/Tmux Cheat Sheat.md",
-    "1. Projects/Fleetings/Sticking to a Routine.md",
-    "1. Projects/Fleetings/Random Quotes.md",
-    "1. Projects/Fleetings/Propædia.md",
-    "1. Projects/Fleetings/Privacy Tools.md",
-    "1. Projects/Dashboard/Homepage.md",
-    "create file",
-    "testr",
-    "test file",
-    "1. Projects/Dashboard",
-    "3. Resources/Images/My Avatar.jpg",
-    "3. Resources/Images/Default_White_hair_man_circle_glasses_white_blazer_librarian_3 (copy 1).jpg",
-    "3. Resources/Images/flower.gif",
-    "3. Resources/Images/diamond.gif",
-    "3. Resources/Images/book.gif",
-    "1754728_6d35b.gif",
-    "junimos.gif",
-    "Logseq",
-    "Untitled.canvas",
-    "3. Resources/Images/Hyperammonemia and Systemic Inflammatory Response Syndrome Predicts Presence of Hepatic Encephalopathy in Dogs with Congenital Portosystemic Shunts.pdf",
-    "4. Archives/Finished Projects/First Project The Beginning.pdf",
-    "4. Archives/Finished Projects/First Project The Ending.pdf",
-    "krazy"
+    "10. Templates/Atomic Note.md",
+    "1. Atlas/Tasks.md",
+    "1. Atlas/Projects Atlas.md",
+    "1. Atlas/Media Channels.md",
+    "1. Atlas/Journal Atlas.md",
+    "1. Atlas/Inbox.md",
+    "1. Atlas/Homepage II.md",
+    "1. Atlas/Homepage I.md",
+    "1. Atlas/Canvas Atlas.md",
+    "1. Atlas/Books Atlas.md",
+    "4. Journals/2024/Daily/July 29th, 2024.md",
+    "4. Journals/Life.md",
+    "4. Journals/2024/Week/2024, 31st Week.md",
+    "4. Journals/2024/Month/July, 2024.md",
+    "10. Templates/Week Note.md",
+    "10. Templates/Tagged Note.md",
+    "10. Templates/Project Template.md",
+    "10. Templates/Reference Note.md",
+    "10. Templates/Project Proposal Note.md",
+    "10. Templates/People Template.md",
+    "10. Templates/Old Week Note.md",
+    "10. Templates/Notebook CSS Classes.md",
+    "10. Templates/Month and Year Note.md",
+    "10. Templates/Meeting Note.md",
+    "10. Templates/Media Note.md",
+    "10. Templates/Map of Content.md",
+    "10. Templates/Draft Canvas.canvas",
+    "7. Resources/Images/flower.gif",
+    "7. Resources/Images/diamond.gif",
+    "7. Resources/Images/book.gif",
+    "1. Atlas/Dashboard.canvas",
+    "10. Templates",
+    "9. Sandbox",
+    "8. Archives",
+    "7. Resources/Scripts/schedule.py",
+    "7. Resources/Images/Workout Graph - June, 2024.jpg",
+    "7. Resources/Images/Vivian.jpg",
+    "7. Resources/Images/Six Thinking Hats.jpg",
+    "7. Resources/Images/SMART Framework.png",
+    "7. Resources/Images/Routine Graph - May, 2024.jpg",
+    "7. Resources/Images/Routine Graph - June, 2024.jpg",
+    "7. Resources/Images/R.A.I.L.png",
+    "7. Resources/Files/P001 The Ending.pdf",
+    "7. Resources/Files/P001 The Beginning.pdf",
+    "7. Resources/Scripts",
+    "7. Resources/Manuals",
+    "7. Resources/Literature",
+    "7. Resources/Images",
+    "2. Atoms/Task Workflow.canvas",
+    "2. Atoms/Blogging Tools.canvas",
+    "Check.canvas",
+    "Clover.canvas"
   ]
 }

@@ -1,7 +1,7 @@
 .theme-dark .view-content .kanban-plugin::after {
   content: "";
   position: fixed;
-  background-image: url(https://media.tenor.com/O5-9NwLytp4AAAAd/minimoss-pixel-art.gif);
+  background-image: url(https://cdn.discordapp.com/attachments/1171851735925522582/1262494218073407602/Violet_Skies.jpeg?ex=6696ccdd&is=66957b5d&hm=6aa9911085b615e4547cab67f38a16ed11bb7d758239151cd7a25e95099d4b3b&);
   background-repeat: no-repeat;
   background-size: cover;
   filter: blur(0px) brightness(70%) saturate(100%);
@@ -15,7 +15,7 @@
 .theme-light .view-content .kanban-plugin::after {
   content: "";
   position: fixed;
-  background-image: url(https://media.tenor.com/O5-9NwLytp4AAAAd/minimoss-pixel-art.gif);
+  background-image: url(https://cdn.discordapp.com/attachments/1171851735925522582/1262494218073407602/Violet_Skies.jpeg?ex=6696ccdd&is=66957b5d&hm=6aa9911085b615e4547cab67f38a16ed11bb7d758239151cd7a25e95099d4b3b&);
   background-repeat: no-repeat;
   background-size: cover;
   filter: blur(0px) brightness(70%) saturate(100%);
@@ -25,3 +25,4 @@
   bottom: 0;
   z-index: -1;
 }
+

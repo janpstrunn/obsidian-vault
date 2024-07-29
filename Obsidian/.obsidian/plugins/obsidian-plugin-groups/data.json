@@ -1,0 +1,161 @@
+{
+  "groups": [
+    {
+      "loadAtStartup": true,
+      "disableOnStartup": false,
+      "delay": 0,
+      "id": "pgdesktop",
+      "name": "Desktop",
+      "plugins": [
+        {
+          "id": "calendar",
+          "name": "Calendar"
+        },
+        {
+          "id": "dataview",
+          "name": "Dataview"
+        },
+        {
+          "id": "flashcards-obsidian",
+          "name": "Flashcards"
+        },
+        {
+          "id": "janitor",
+          "name": "Janitor"
+        },
+        {
+          "id": "obsidian-copy-block-link",
+          "name": "Copy Block Link"
+        },
+        {
+          "id": "obsidian-footnotes",
+          "name": "Footnote Shortcut"
+        },
+        {
+          "id": "obsidian-git",
+          "name": "Git"
+        },
+        {
+          "id": "obsidian-kanban",
+          "name": "Kanban"
+        },
+        {
+          "id": "obsidian-linter",
+          "name": "Linter"
+        },
+        {
+          "id": "obsidian-omnivore",
+          "name": "Omnivore"
+        },
+        {
+          "id": "obsidian-projects",
+          "name": "Projects"
+        },
+        {
+          "id": "obsidian-sort-and-permute-lines",
+          "name": "Sort & Permute lines"
+        },
+        {
+          "id": "obsidian-style-settings",
+          "name": "Style Settings"
+        },
+        {
+          "id": "obsidian-zoom",
+          "name": "Zoom"
+        },
+        {
+          "id": "periodic-notes",
+          "name": "Periodic Notes"
+        },
+        {
+          "id": "supercharged-links-obsidian",
+          "name": "Supercharged Links"
+        },
+        {
+          "id": "tag-wrangler",
+          "name": "Tag Wrangler"
+        },
+        {
+          "id": "various-complements",
+          "name": "Various Complements"
+        },
+        {
+          "id": "vim-toggle",
+          "name": "Vim Toggle"
+        },
+        {
+          "id": "templater-obsidian",
+          "name": "Templater"
+        },
+        {
+          "id": "obsidian-excalidraw-plugin",
+          "name": "Excalidraw"
+        },
+        {
+          "id": "obsidian-icon-folder",
+          "name": "Iconize"
+        }
+      ],
+      "groupIds": [],
+      "generateCommands": false,
+      "assignedDevices": [
+        "DESKTOP"
+      ]
+    },
+    {
+      "loadAtStartup": true,
+      "disableOnStartup": false,
+      "delay": 0,
+      "id": "pgmobile",
+      "name": "Mobile",
+      "plugins": [
+        {
+          "id": "calendar",
+          "name": "Calendar"
+        },
+        {
+          "id": "dataview",
+          "name": "Dataview"
+        },
+        {
+          "id": "obsidian-kanban",
+          "name": "Kanban"
+        },
+        {
+          "id": "periodic-notes",
+          "name": "Periodic Notes"
+        },
+        {
+          "id": "obsidian-projects",
+          "name": "Projects"
+        },
+        {
+          "id": "obsidian-style-settings",
+          "name": "Style Settings"
+        },
+        {
+          "id": "supercharged-links-obsidian",
+          "name": "Supercharged Links"
+        },
+        {
+          "id": "templater-obsidian",
+          "name": "Templater"
+        }
+      ],
+      "groupIds": [],
+      "generateCommands": false,
+      "assignedDevices": [
+        "MOBILE"
+      ]
+    }
+  ],
+  "generateCommands": true,
+  "showNoticeOnGroupLoad": "none",
+  "devLogs": false,
+  "devices": [
+    "DESKTOP",
+    "MOBILE"
+  ],
+  "doLoadSynchronously": true,
+  "showStatusbarIcon": "None"
+}

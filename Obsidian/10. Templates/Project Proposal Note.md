@@ -1,0 +1,60 @@
+---
+due: 
+source: 
+status: 
+tags: 
+year:
+---
+# Project Data
+
+1. Project Name
+2. Project Sponsor
+3. Project Manager
+4. Date of Approval
+5. Last Revision Date
+
+# Project Information
+
+## Project Description
+
+- Give background to the project and state the project's purpose.
+
+## Scope
+
+- State what is in scope and also what is out of scope
+
+## Business Case
+
+- Outline the justification for starting the project, including: financials and time scales if applicable.
+
+# Constraints
+
+## Time
+
+- Describe any deadline that exists
+
+## Quality
+
+- Describe any quality criteria that exists
+
+## Budget
+
+- Describe any budgetary constraint's that exists
+
+## Scope
+
+- Is the scope flexible ?
+
+# Deliverables and Benefits
+
+## Project Deliverables
+
+- Outline what deliverables are to be produced by the project
+
+##  Benefits
+
+- Describe the benefits from the project
+
+# Risks
+
+- Describe any known risks or possible risks here

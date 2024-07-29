@@ -1,0 +1,91 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [],
+    "recentlyUsedIconsSize": 5,
+    "rules": [
+      {
+        "rule": "Atlas",
+        "icon": "LiMap",
+        "for": "everything",
+        "order": 0
+      },
+      {
+        "rule": "Atoms",
+        "icon": "LiAtom",
+        "for": "everything",
+        "order": 1
+      },
+      {
+        "rule": "Fleetings",
+        "icon": "LiWind",
+        "for": "everything",
+        "order": 2
+      },
+      {
+        "rule": "Journals",
+        "icon": "LiPenTool",
+        "for": "everything",
+        "order": 3
+      },
+      {
+        "rule": "Projects",
+        "icon": "LiGitGraph",
+        "for": "everything",
+        "order": 4
+      },
+      {
+        "rule": "Areas",
+        "icon": "LiBox",
+        "for": "everything",
+        "order": 5
+      },
+      {
+        "rule": "Resources",
+        "icon": "LiBookText",
+        "for": "everything",
+        "order": 6
+      },
+      {
+        "rule": "Archives",
+        "icon": "LiArchive",
+        "for": "everything",
+        "order": 7
+      },
+      {
+        "rule": "Sandbox",
+        "icon": "LiCodesandbox",
+        "for": "everything",
+        "order": 8
+      },
+      {
+        "rule": "Templates",
+        "icon": "LiLayoutTemplate",
+        "for": "everything",
+        "order": 9
+      }
+    ],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false
+  }
+}

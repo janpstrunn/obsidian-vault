@@ -29,7 +29,11 @@
     "excalidraw-open-md": "checkbox",
     "state": "text",
     "phone": "number",
-    "start-date": "date",
-    "deadline": "date"
+    "deadline": "date",
+    "status": "multitext",
+    "type": "multitext",
+    "start": "date",
+    "publish": "checkbox",
+    "category": "multitext"
   }
 }

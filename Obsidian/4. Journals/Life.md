@@ -1,0 +1,23 @@
+---
+tags:
+  - life
+---
+# Inspirational Quote
+
+> [!quote] It's never late to say: It's not over yet!
+
+# Goals
+
+# Projects
+
+# Highlights
+
+# Review
+
+%%
+What went good or bad?
+What was my best experiences?
+What was the most valuable lesson I've learned?
+What I did right or wrong? %%
+
+# Graph

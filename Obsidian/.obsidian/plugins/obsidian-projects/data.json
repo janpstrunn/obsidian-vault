@@ -65,7 +65,10 @@
           "config": {
             "coverField": "avatar",
             "fitStyle": "contain",
-            "cardWidth": 200
+            "cardWidth": 200,
+            "includeFields": [
+              "degree"
+            ]
           },
           "filter": {
             "conjunction": "and",
@@ -75,7 +78,13 @@
             "conditions": []
           },
           "sort": {
-            "criteria": []
+            "criteria": [
+              {
+                "field": "name",
+                "order": "asc",
+                "enabled": true
+              }
+            ]
           },
           "id": "d14a3c24-1abb-4782-804b-5a91e53e5367",
           "name": "Gallery",
@@ -112,8 +121,10 @@
             },
             "orderFields": [
               "name",
+              "status",
               "author",
               "tags",
+              "source",
               "aliases"
             ]
           },
@@ -133,7 +144,7 @@
         },
         {
           "config": {
-            "coverField": "cover",
+            "coverField": "coverUrl",
             "fitStyle": "contain",
             "cardWidth": 200,
             "includeFields": []
@@ -178,7 +189,23 @@
       "newNotesFolder": "",
       "views": [
         {
-          "config": {},
+          "config": {
+            "fieldConfig": {
+              "tags": {
+                "hide": true
+              },
+              "path": {
+                "hide": true
+              }
+            },
+            "orderFields": [
+              "name",
+              "aliases",
+              "status",
+              "deadline",
+              "start"
+            ]
+          },
           "filter": {
             "conjunction": "and",
             "conditions": []
@@ -203,13 +230,16 @@
                 ],
                 "weight": 0
               },
-              "TODO": {
-                "records": [
-                  "1. Projects/Zettelkasten Implementation.md"
-                ],
+              "DOING": {
                 "weight": 1
+              },
+              "WAITING": {
+                "weight": 2
               }
-            }
+            },
+            "includeFields": [
+              "start"
+            ]
           },
           "filter": {
             "conjunction": "and",
@@ -235,6 +265,9 @@
     "projectSizeLimit": 1000,
     "frontmatter": {
       "quoteStrings": "PLAIN"
+    },
+    "locale": {
+      "firstDayOfWeek": "default"
     },
     "commands": [],
     "linkBehavior": "open-editor"

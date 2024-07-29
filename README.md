@@ -7,5 +7,7 @@ Besides all the configuration, the vault has several note templates as well, ran
 ## Credits
 
 [CyanVoxel](https://github.com/CyanVoxel) for some of his snippets (Colored Sidebar Items and Notebook Backgrounds)
+
 [TfTHacker](https://github.com/TfTHacker/DashboardPlusPlus) for his Dashboard++ snippet
+
 [CuyiLendo](https://forum.obsidian.md/t/add-background-to-kanban-plugin/47248) for his Kanban Background snippet

@@ -1,15 +1,8 @@
 [
-  "various-complements",
-  "obsidian-excalidraw-plugin",
-  "obsidian-linter",
-  "vim-toggle",
-  "obsidian-projects",
-  "supercharged-links-obsidian",
   "drawio-obsidian",
-  "dataview",
-  "calendar",
-  "tag-wrangler",
-  "periodic-notes",
   "obsidian-style-settings",
-  "obsidian-kanban"
+  "obsidian-plugin-groups",
+  "periodic-notes",
+  "templater-obsidian",
+  "obsidian-icon-folder"
 ]

@@ -1,7 +1,0 @@
-# Goals
-
-# Projects
-
-# Highlights
-
-# Revisão

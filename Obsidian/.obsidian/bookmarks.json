@@ -3,7 +3,7 @@
     {
       "type": "file",
       "ctime": 1718997962691,
-      "path": "1. Projects/Inbox.md",
+      "path": "1. Atlas/Inbox.md",
       "title": "Inbox"
     },
     {
@@ -14,17 +14,23 @@
     },
     {
       "type": "file",
-      "ctime": 1720477629708,
-      "path": "1. Projects/Dashboard/Homepage.md",
+      "ctime": 1720742245093,
+      "path": "1. Atlas/Homepage II.md",
       "title": "Homepage"
     },
     {
+      "type": "file",
+      "ctime": 1720742252620,
+      "path": "Atlas/World Tasks.md",
+      "title": "World Tasks"
+    },
+    {
       "type": "graph",
-      "ctime": 1720564395853,
-      "title": "No Journal",
+      "ctime": 1722295025779,
+      "title": "Clean Graph",
       "options": {
-        "collapse-filter": false,
-        "search": "-path:\"2. Areas/Journalling\"  ",
+        "collapse-filter": true,
+        "search": "-path:\"4. Journals\" -path:\"10. Templates\"  ",
         "showTags": false,
         "showAttachments": false,
         "hideUnresolved": false,
@@ -32,10 +38,10 @@
         "collapse-color-groups": false,
         "colorGroups": [
           {
-            "query": "path:\"2. Areas/Journalling\"  ",
+            "query": "path:Journals  ",
             "color": {
               "a": 1,
-              "rgb": 14701138
+              "rgb": 1720575
             }
           },
           {
@@ -56,8 +62,8 @@
         "repelStrength": 10,
         "linkStrength": 1,
         "linkDistance": 250,
-        "scale": 0.2962962962962954,
-        "close": false
+        "scale": 0.1821447705254041,
+        "close": true
       }
     }
   ]

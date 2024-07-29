@@ -1,0 +1,37 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "10. Templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "Journals/2024/Daily",
+      "template": "10. Templates/Journal Note.md"
+    },
+    {
+      "folder": "Journals/2024/Week",
+      "template": "10. Templates/Week Note.md"
+    },
+    {
+      "folder": "Journals/2024/Month",
+      "template": "10. Templates/Month and Year Note.md"
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [],
+  "enable_ribbon_icon": true
+}

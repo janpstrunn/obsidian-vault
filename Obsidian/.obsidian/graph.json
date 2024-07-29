@@ -1,12 +1,27 @@
 {
   "collapse-filter": true,
-  "search": "",
+  "search": "-path:\"4. Journals\" -path:\"10. Templates\"  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:Journals  ",
+      "color": {
+        "a": 1,
+        "rgb": 1720575
+      }
+    },
+    {
+      "query": "tag:#people  ",
+      "color": {
+        "a": 1,
+        "rgb": 3206679
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.2962962962962954,
-  "close": false
+  "scale": 0.1821447705254041,
+  "close": true
 }

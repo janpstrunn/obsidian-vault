@@ -4,20 +4,20 @@
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
     "format": "MMMM Do, YYYY",
-    "folder": "2. Areas/Journalling/2024",
+    "folder": "4. Journals/2024/Daily",
     "enabled": true,
-    "template": "1. Projects/Zettelkasten/Templates/Diary Note.md"
+    "template": ""
   },
   "weekly": {
     "format": "gggg, wo [Week]",
     "template": "",
-    "folder": "2. Areas/Journalling/2024",
+    "folder": "4. Journals/2024/Week",
     "enabled": true
   },
   "monthly": {
     "format": "MMMM YYYY",
-    "template": "1. Projects/Zettelkasten/Templates/Month Template.md",
-    "folder": "2. Areas/Journalling/2024",
+    "template": "10. Templates/Month and Year Note.md",
+    "folder": "4. Journals/2024/Month",
     "enabled": true
   },
   "quarterly": {
@@ -27,8 +27,8 @@
   },
   "yearly": {
     "format": "",
-    "template": "1. Projects/Zettelkasten/Templates/Month Template.md",
-    "folder": "2. Areas/Journalling",
+    "template": "10. Templates/Month and Year Note.md",
+    "folder": "4. Journals/2024",
     "enabled": true
   }
 }
