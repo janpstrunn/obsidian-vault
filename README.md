@@ -6,7 +6,7 @@ Besides all the configuration, the vault has several note templates as well, ran
 
 ## Footage
 
-![footage](https://github.com/janpstrunn/obsidian-vault/blob/main/footage.png)
+![footage](https://github.com/janpstrunn/obsidian-vault/blob/main/Footage.png)
 
 ## Credits
 
