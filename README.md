@@ -4,6 +4,10 @@ This is my personal Obsidian Vault containing a collection of decent amount of s
 
 Besides all the configuration, the vault has several note templates as well, ranging from the most basic notes with proprieties to dataview examples.
 
+## Footage
+
+![footage](https://github.com/janpstrunn/obsidian-vault/blob/main/footage.png)
+
 ## Credits
 
 [CyanVoxel](https://github.com/CyanVoxel) for some of his snippets (Colored Sidebar Items and Notebook Backgrounds)
