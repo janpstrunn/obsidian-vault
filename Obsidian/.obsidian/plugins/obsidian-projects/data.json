@@ -65,10 +65,11 @@
           "config": {
             "coverField": "avatar",
             "fitStyle": "contain",
-            "cardWidth": 200,
             "includeFields": [
-              "degree"
-            ]
+              "degree",
+              "notes"
+            ],
+            "cardWidth": 200
           },
           "filter": {
             "conjunction": "and",
@@ -258,6 +259,107 @@
       ],
       "id": "19f68fba-c0bb-4d89-8d20-54e3b7f39d4c",
       "name": "Projects"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "tag",
+        "config": {
+          "tag": "#blogging",
+          "hierarchy": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              },
+              "aliases": {
+                "hide": false
+              },
+              "author": {
+                "hide": true
+              },
+              "source": {
+                "hide": true
+              },
+              "tags": {
+                "hide": true
+              },
+              "coverUrl": {
+                "hide": true
+              },
+              "origin": {
+                "hide": true
+              },
+              "category": {
+                "hide": true
+              },
+              "type": {
+                "hide": true
+              }
+            },
+            "orderFields": [
+              "name",
+              "deadline",
+              "start",
+              "status",
+              "tags",
+              "publish",
+              "type",
+              "category",
+              "coverUrl",
+              "origin"
+            ]
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": [
+              {
+                "field": "aliases",
+                "order": "asc",
+                "enabled": true
+              }
+            ]
+          },
+          "id": "5e8c7d07-d16a-456e-90f3-6f1151f4b306",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {
+            "coverField": "coverImage"
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "f52405bd-9c12-46a3-a282-bac3233d992d",
+          "name": "Gallery",
+          "type": "gallery"
+        }
+      ],
+      "id": "15228ea6-33bd-43b6-b14e-f6c7b8cae9b3",
+      "name": "Posts"
     }
   ],
   "archives": [],

@@ -88,10 +88,6 @@
           "name": "Templater"
         },
         {
-          "id": "obsidian-excalidraw-plugin",
-          "name": "Excalidraw"
-        },
-        {
           "id": "obsidian-icon-folder",
           "name": "Iconize"
         }
@@ -140,6 +136,10 @@
         {
           "id": "templater-obsidian",
           "name": "Templater"
+        },
+        {
+          "id": "obsidian-icon-folder",
+          "name": "Iconize"
         }
       ],
       "groupIds": [],

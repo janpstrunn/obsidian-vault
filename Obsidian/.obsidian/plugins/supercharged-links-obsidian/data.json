@@ -23,6 +23,18 @@
       "selectAppend": true,
       "selectPrepend": true,
       "selectBackground": true
+    },
+    {
+      "type": "tag",
+      "name": "tags",
+      "value": "memories",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "d259-0491",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
     }
   ]
 }

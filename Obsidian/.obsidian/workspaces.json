@@ -1,4 +1,687 @@
 {
-  "workspaces": {},
-  "active": "Tasks"
+  "workspaces": {
+    "Month Goals": {
+      "main": {
+        "id": "c39f8b4dbf7d4922",
+        "type": "split",
+        "children": [
+          {
+            "id": "496d3a9b8a657873",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d13f6c250fc8585b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "4. Journals/2024/Month/July, 2024.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "stacked": true
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "e09bc3a78cb3e488",
+        "type": "split",
+        "children": [
+          {
+            "id": "7a0e04affc9dbccf",
+            "type": "tabs",
+            "dimension": 75.72815533980582,
+            "children": [
+              {
+                "id": "07359be91054472c",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "fbed0a77a2b18afa",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:project",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "fc30624cf81a296b",
+            "type": "tabs",
+            "dimension": 24.271844660194173,
+            "children": [
+              {
+                "id": "983b5fc35aeca3e2",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "f8fe1cd210ff4dfe",
+        "type": "split",
+        "children": [
+          {
+            "id": "dbaecb923e043058",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "61b17fa280006527",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "4. Journals/2024/Month/July, 2024.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "d543c7406298a79b",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "4. Journals/2024/Month/July, 2024.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "a0ff85dbc9f22b6d",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "383861ede521bede",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "b9a5db2cfbf59da8",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  }
+                }
+              }
+            ],
+            "currentTab": 3
+          },
+          {
+            "id": "8b94108f5e203ba2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "44e68b2154b40c5c",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "4. Journals/2024/Month/July, 2024.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 1,
+                      "close": true
+                    }
+                  }
+                }
+              },
+              {
+                "id": "2c8924af949c8ddd",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "4. Journals/2024/Month/July, 2024.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 264.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-kanban:Create new board": false,
+          "random-note:Open random note": false,
+          "templater-obsidian:Templater": false,
+          "janitor:Janitor: scan vault": false,
+          "audio-recorder:Start/stop recording": false,
+          "canvas:Create new canvas": false,
+          "obsidian-projects:Open projects": false,
+          "graph:Open graph view": false,
+          "switcher:Open quick switcher": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "workspaces:Manage workspace layouts": false,
+          "periodic-notes:Open today": false
+        }
+      },
+      "active": "d13f6c250fc8585b",
+      "mtime": "2024-08-25T09:42:34-03:00"
+    },
+    "Year Goals": {
+      "main": {
+        "id": "c39f8b4dbf7d4922",
+        "type": "split",
+        "children": [
+          {
+            "id": "4fdc50482b8eba5d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a065d9e2fd5823ad",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "4. Journals/2024/2024.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "stacked": true
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "e09bc3a78cb3e488",
+        "type": "split",
+        "children": [
+          {
+            "id": "7a0e04affc9dbccf",
+            "type": "tabs",
+            "dimension": 71.48058252427184,
+            "children": [
+              {
+                "id": "07359be91054472c",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "fbed0a77a2b18afa",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:project",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "3aada8db456daf30",
+            "type": "tabs",
+            "dimension": 28.519417475728154,
+            "children": [
+              {
+                "id": "983b5fc35aeca3e2",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "f8fe1cd210ff4dfe",
+        "type": "split",
+        "children": [
+          {
+            "id": "dbaecb923e043058",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "61b17fa280006527",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "4. Journals/2024/2024.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "d543c7406298a79b",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "4. Journals/2024/2024.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "a0ff85dbc9f22b6d",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "383861ede521bede",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "b9a5db2cfbf59da8",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  }
+                }
+              }
+            ],
+            "currentTab": 3
+          },
+          {
+            "id": "8b94108f5e203ba2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "44e68b2154b40c5c",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "4. Journals/2024/2024.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 1,
+                      "close": true
+                    }
+                  }
+                }
+              },
+              {
+                "id": "2c8924af949c8ddd",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "4. Journals/2024/2024.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 264.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-kanban:Create new board": false,
+          "random-note:Open random note": false,
+          "templater-obsidian:Templater": false,
+          "janitor:Janitor: scan vault": false,
+          "audio-recorder:Start/stop recording": false,
+          "canvas:Create new canvas": false,
+          "obsidian-projects:Open projects": false,
+          "graph:Open graph view": false,
+          "switcher:Open quick switcher": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "workspaces:Manage workspace layouts": false,
+          "periodic-notes:Open today": false
+        }
+      },
+      "active": "a065d9e2fd5823ad",
+      "mtime": "2024-08-25T09:42:40-03:00"
+    },
+    "Clean": {
+      "main": {
+        "id": "ebfe2c4c600d5f3f",
+        "type": "split",
+        "children": [
+          {
+            "id": "f4344d61b378df46",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "678d3537972860bd",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "0b8a368e035fd91f",
+        "type": "split",
+        "children": [
+          {
+            "id": "7fea3a418f737912",
+            "type": "tabs",
+            "dimension": 73.31759149940969,
+            "children": [
+              {
+                "id": "4861b16e29349f67",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "cf8145e718779b09",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "54ecfde85c8c1b6e",
+            "type": "tabs",
+            "dimension": 26.682408500590316,
+            "children": [
+              {
+                "id": "d45141634c1fe49b",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "f6d98f067b48ec67",
+        "type": "split",
+        "children": [
+          {
+            "id": "9902205829607587",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0facdcf85d672656",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "e7834775a9a3e287",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "caa437cb78dccc69",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "932dbc9326d1096b",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  }
+                }
+              },
+              {
+                "id": "1a5e486edd639be9",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {}
+                }
+              },
+              {
+                "id": "8a3838fa0fac29f8",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 5
+          },
+          {
+            "id": "050638c2a58b67e9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9c2e698a1eea55b4",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.6147386005232407,
+                      "close": true
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 293.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "janitor:Janitor: scan vault": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "audio-recorder:Start/stop recording": false,
+          "workspaces:Manage workspace layouts": false,
+          "random-note:Open random note": false,
+          "obsidian-projects:Open projects": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "obsidian-kanban:Create new board": false,
+          "templater-obsidian:Templater": false,
+          "periodic-notes:Open today": false
+        }
+      },
+      "active": "678d3537972860bd",
+      "mtime": "2024-07-26T15:47:17-03:00"
+    }
+  },
+  "active": "Clean"
 }

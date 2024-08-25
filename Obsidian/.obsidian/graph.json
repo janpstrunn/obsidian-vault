@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "-path:\"4. Journals\" -path:\"10. Templates\"  ",
+  "collapse-filter": false,
+  "search": "-path:Journals -path:Archives/Resources/Templates  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -11,7 +11,7 @@
       "query": "path:Journals  ",
       "color": {
         "a": 1,
-        "rgb": 1720575
+        "rgb": 14701138
       }
     },
     {
@@ -32,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.1821447705254041,
+  "scale": 0.2962962962962954,
   "close": true
 }

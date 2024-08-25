@@ -158,5 +158,7 @@
   "minimal-style@@h5-variant": "normal",
   "minimal-style@@italic-color@@light": "#A6E3A1",
   "minimal-style@@tag-color@@dark": "#8A5CF5",
-  "minimal-style@@graph-node-unresolved@@dark": "#FF2A2A"
+  "minimal-style@@graph-node-unresolved@@dark": "#FF2A2A",
+  "supercharged-links@@d259-0491-color": "#FFFD0D",
+  "supercharged-links@@c-d259-0491-use-background": false
 }

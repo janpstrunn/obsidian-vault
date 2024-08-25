@@ -2,21 +2,9 @@
   "items": [
     {
       "type": "file",
-      "ctime": 1718997962691,
-      "path": "1. Atlas/Inbox.md",
-      "title": "Inbox"
-    },
-    {
-      "type": "file",
       "ctime": 1719014725935,
       "path": "1. Projects/Kanban - Todo List.md",
       "title": "Todo List"
-    },
-    {
-      "type": "file",
-      "ctime": 1720742245093,
-      "path": "1. Atlas/Homepage II.md",
-      "title": "Homepage"
     },
     {
       "type": "file",
@@ -25,46 +13,83 @@
       "title": "World Tasks"
     },
     {
-      "type": "graph",
-      "ctime": 1722295025779,
-      "title": "Clean Graph",
-      "options": {
-        "collapse-filter": true,
-        "search": "-path:\"4. Journals\" -path:\"10. Templates\"  ",
-        "showTags": false,
-        "showAttachments": false,
-        "hideUnresolved": false,
-        "showOrphans": true,
-        "collapse-color-groups": false,
-        "colorGroups": [
-          {
-            "query": "path:Journals  ",
-            "color": {
-              "a": 1,
-              "rgb": 1720575
-            }
-          },
-          {
-            "query": "tag:#people  ",
-            "color": {
-              "a": 1,
-              "rgb": 3206679
-            }
+      "type": "file",
+      "ctime": 1722726085394,
+      "path": "1. Atlas/Week Schedule.md",
+      "title": "Schedule"
+    },
+    {
+      "type": "file",
+      "ctime": 1723580658099,
+      "path": "2. Atoms/Programming.md",
+      "title": "Programming"
+    },
+    {
+      "type": "group",
+      "ctime": 1723580667266,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1718997962691,
+          "path": "1. Atlas/Inbox.md",
+          "title": "Inbox"
+        },
+        {
+          "type": "file",
+          "ctime": 1720742245093,
+          "path": "1. Atlas/Homepage.md",
+          "title": "Homepage"
+        },
+        {
+          "type": "graph",
+          "ctime": 1720742163817,
+          "title": "Clean Graph",
+          "options": {
+            "collapse-filter": false,
+            "search": "-path:Journals -path:Archives/Resources/Templates  ",
+            "showTags": false,
+            "showAttachments": false,
+            "hideUnresolved": false,
+            "showOrphans": true,
+            "collapse-color-groups": false,
+            "colorGroups": [
+              {
+                "query": "path:Journals  ",
+                "color": {
+                  "a": 1,
+                  "rgb": 14701138
+                }
+              },
+              {
+                "query": "tag:#people  ",
+                "color": {
+                  "a": 1,
+                  "rgb": 3206679
+                }
+              }
+            ],
+            "collapse-display": true,
+            "showArrow": false,
+            "textFadeMultiplier": 0,
+            "nodeSizeMultiplier": 1,
+            "lineSizeMultiplier": 1,
+            "collapse-forces": true,
+            "centerStrength": 0.518713248970312,
+            "repelStrength": 10,
+            "linkStrength": 1,
+            "linkDistance": 250,
+            "scale": 0.2962962962962954,
+            "close": false
           }
-        ],
-        "collapse-display": true,
-        "showArrow": false,
-        "textFadeMultiplier": 0,
-        "nodeSizeMultiplier": 1,
-        "lineSizeMultiplier": 1,
-        "collapse-forces": true,
-        "centerStrength": 0.518713248970312,
-        "repelStrength": 10,
-        "linkStrength": 1,
-        "linkDistance": 250,
-        "scale": 0.1821447705254041,
-        "close": true
-      }
+        }
+      ],
+      "title": "Organize"
+    },
+    {
+      "type": "file",
+      "ctime": 1723727673074,
+      "path": "2. Atoms/Powerhouse.md",
+      "title": "Powerhouse"
     }
   ]
 }

@@ -5,7 +5,13 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "LiWarehouse",
+      "LiPlay",
+      "⚒",
+      "LiLayoutTemplate",
+      "LiArchive"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [
       {
@@ -67,6 +73,24 @@
         "icon": "LiLayoutTemplate",
         "for": "everything",
         "order": 9
+      },
+      {
+        "rule": "Inbox",
+        "icon": "LiInbox",
+        "for": "everything",
+        "order": 10
+      },
+      {
+        "rule": "Tasks",
+        "icon": "LiCheckCircle",
+        "for": "everything",
+        "order": 11
+      },
+      {
+        "rule": "Collaborations",
+        "icon": "⚒",
+        "for": "everything",
+        "order": 12
       }
     ],
     "extraMargin": {
@@ -87,5 +111,31 @@
     "iconIdentifier": ":",
     "lucideIconPackType": "native",
     "debugMode": false
-  }
+  },
+  "5. Resources": "LiNewspaper",
+  "6. Tasks": "LiCheckCircle",
+  "6. Tasks/TODO": {
+    "iconName": "LiAlarmClock",
+    "iconColor": "#e1ff00"
+  },
+  "6. Tasks/WAIT": {
+    "iconName": "LiSnowflake",
+    "iconColor": "#ffffff"
+  },
+  "6. Tasks/DONE": {
+    "iconName": "LiBadgeCheck",
+    "iconColor": "#3bff05"
+  },
+  "6. Tasks/DOING": "🌓",
+  "6. Tasks/CANCELLED": {
+    "iconName": "LiXCircle",
+    "iconColor": "#ff0000"
+  },
+  "7. Integrations": "LiNetwork",
+  "9. Archives": "LiArchive",
+  "10. Templates": "LiLayoutTemplate",
+  "8. Collaborations": "⚒",
+  "1. Atlas/Media Channels.md": "LiPlay",
+  "1. Atlas/Homepage I.md": "LiWarehouse",
+  "1. Atlas/Homepage II.md": "LiWarehouse"
 }
