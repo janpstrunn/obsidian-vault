@@ -11,8 +11,15 @@
             "id": "678d3537972860bd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "4. Journals/2024/Daily/October 20th, 2024.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "October 20th, 2024"
             }
           }
         ]
@@ -36,7 +43,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -51,7 +60,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           }
         ]
@@ -66,7 +77,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -89,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "4. Journals/2024/Daily/October 20th, 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +110,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for October 20th, 2024"
             }
           },
           {
@@ -105,9 +121,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "4. Journals/2024/Daily/October 20th, 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from October 20th, 2024"
             }
           },
           {
@@ -118,7 +137,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -130,7 +151,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -138,7 +161,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "4. Journals/2024/Daily/October 20th, 2024.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of October 20th, 2024"
             }
           },
           {
@@ -146,7 +173,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ],
@@ -162,6 +191,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "4. Journals/2024/Daily/October 20th, 2024.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -187,7 +217,9 @@
                   "scale": 0.6147386005232407,
                   "close": true
                 }
-              }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of October 20th, 2024"
             }
           }
         ]
@@ -198,7 +230,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "janitor:Janitor: scan vault": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -207,15 +238,12 @@
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
       "workspaces:Manage workspace layouts": false,
-      "random-note:Open random note": false,
-      "obsidian-projects:Open projects": false,
-      "obsidian-kanban:Create new board": false,
-      "templater-obsidian:Templater": false,
-      "periodic-notes:Open today": false
+      "random-note:Open random note": false
     }
   },
-  "active": "4861b16e29349f67",
+  "active": "678d3537972860bd",
   "lastOpenFiles": [
+    "4. Journals/2024/Daily/October 20th, 2024.md",
     "6. Tasks/Tasks.md",
     "4. Journals/2024/2024.md",
     "4. Journals/2024/Month/July, 2024.md",
@@ -251,7 +279,6 @@
     "4. Journals/2024/Daily/August 1st, 2024.md",
     "2. Atoms/Broken Barrel.md",
     "2. Atoms/Bloom's Taxonomy.md",
-    "2. Atoms/SMART.md",
     "5. Resources/Images/Eisenhower Matrix.png",
     "5. Resources/Images/R.A.I.L.png",
     "5. Resources/Images/The Art of Journalling.jpg",
