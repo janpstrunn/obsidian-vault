@@ -1,0 +1,118 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1719014725935,
+      "path": "1. Projects/Kanban - Todo List.md",
+      "title": "Todo List"
+    },
+    {
+      "type": "file",
+      "ctime": 1720742252620,
+      "path": "Atlas/World Tasks.md",
+      "title": "World Tasks"
+    },
+    {
+      "type": "file",
+      "ctime": 1720742245093,
+      "path": "Atoms/Homepage.md",
+      "title": "Homepage"
+    },
+    {
+      "type": "file",
+      "ctime": 1730140862932,
+      "path": "Atoms/Elements.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1730140854692,
+      "path": "Atoms/Daily Schedule.md"
+    },
+    {
+      "type": "graph",
+      "ctime": 1730576048587,
+      "title": "Clean Graph",
+      "options": {
+        "collapse-filter": false,
+        "search": "-path:\"Journals\"  -path:path:",
+        "showTags": false,
+        "showAttachments": false,
+        "hideUnresolved": false,
+        "showOrphans": true,
+        "collapse-color-groups": false,
+        "colorGroups": [
+          {
+            "query": "tag:#people  ",
+            "color": {
+              "a": 1,
+              "rgb": 3206679
+            }
+          }
+        ],
+        "collapse-display": true,
+        "showArrow": false,
+        "textFadeMultiplier": 0,
+        "nodeSizeMultiplier": 1,
+        "lineSizeMultiplier": 1,
+        "collapse-forces": true,
+        "centerStrength": 0.518713248970312,
+        "repelStrength": 10,
+        "linkStrength": 1,
+        "linkDistance": 250,
+        "scale": 0.20684752804041026,
+        "close": false
+      }
+    },
+    {
+      "type": "group",
+      "ctime": 1730482130542,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1730482139864,
+          "path": "Atoms/Images.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1730482144638,
+          "path": "Atoms/Canvas.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1730482148119,
+          "path": "Atoms/PDF.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1730576284616,
+          "path": "Atoms/Video.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1730576289782,
+          "path": "Atoms/Audio.md"
+        }
+      ],
+      "title": "File Types"
+    },
+    {
+      "type": "group",
+      "ctime": 1730482551049,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1730576348364,
+          "path": "Getting Started.md",
+          "title": "GS"
+        },
+        {
+          "type": "file",
+          "ctime": 1729194693347,
+          "path": "Atoms/Workflow Guideline.md",
+          "title": "W1"
+        }
+      ],
+      "title": "Quickmarks"
+    }
+  ]
+}

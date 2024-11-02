@@ -1,0 +1,23 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "author": "multitext",
+    "degree": "multitext",
+    "source": "multitext",
+    "origin": "multitext",
+    "state": "text",
+    "phone": "number",
+    "deadline": "date",
+    "status": "multitext",
+    "type": "multitext",
+    "start": "date",
+    "publish": "checkbox",
+    "category": "multitext",
+    "website": "text",
+    "birthday": "date",
+    "test": "multitext",
+    "time": "datetime"
+  }
+}

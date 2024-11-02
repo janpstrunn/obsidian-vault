@@ -1,0 +1,36 @@
+- In what moment did it feel like I was working within my zone of genius?
+- How did I expand my professional capabilities and skill set?
+- What professional relationships made an impact this year?
+- What did I work on this year that I'm the most proud of?
+- How did I provide support to my colleagues on the job?
+- What did I learn form any work mistakes I made?
+- Did I manage to find work-life balance?
+- How much am I really getting done each day?
+- How satisfied am I with what I accomplished this year?
+- When am I the most productive? How can I create these conditions more often?
+- When am I least productive? How can I avoid these conditions more often?
+- Do I have a healthy relationship with social media and technology?
+- Were there stressful or challenging times over the year that impacted my health?
+- Overall, has my health improved or deteriorated over the past year?
+- Am I adequately prioritizing healthy eating, exercise and sleep?
+- What did I do for myself this year as self-care? Can I do more?
+- What kinds of activities left me feeling drained?
+- What kinds of activities re-energized me?
+- Am I satisfied with how much I earned, spent and saved?
+- Did I accomplish or miss any large financial goals?
+- What habits contributed to my financial success or failure?
+- Am I using my income to serve my other goals in life?
+- What is the top thing I can do next year to be financially successful?
+- What relationships gave me energy?
+- What relationships zapped my energy?
+- Did I spend enough time with my loved ones?
+- What things might I have prioritized over my relationships? Are those things worth it?
+- What specific challenges did I encounter in my relationships?
+- What were the best moment with my friends and family in the last year?
+- Are there people I would lite to get closer to in the new year?
+- What new relationships would I like to develop moving forward?
+- Were there competing priorities that prevented me from learning as much as I could?
+- What was the most personally impactful thing I learned this year?
+- How and when did I do my best learning over the last year?
+- What skill should I focus on developing in the new year?
+- How am I a different person now compared to last year?

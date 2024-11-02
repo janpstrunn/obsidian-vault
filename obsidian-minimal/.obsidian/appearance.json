@@ -1,0 +1,27 @@
+{
+  "accentColor": "#9c24ff",
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "media-grid-snippet",
+    "img-grid",
+    "paragraph",
+    "green-arrow",
+    "custom",
+    "rainbow",
+    "hover",
+    "enlarge-image-on-hover",
+    "CSS.Banners",
+    "project",
+    "canvas",
+    "gallery",
+    "Daily Note Themes",
+    "img",
+    "Notebook Backgrounds"
+  ],
+  "baseFontSizeAction": true,
+  "baseFontSize": 18,
+  "theme": "obsidian",
+  "interfaceFontFamily": "Franklin Gothic Medium",
+  "showViewHeader": true,
+  "textFontFamily": "Franklin Gothic Medium"
+}
