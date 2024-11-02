@@ -17,11 +17,11 @@
     "supercharged-links-gen",
     "app",
     "img",
-    "kanban",
     "dashboard",
     "Colored Sidebar Items",
     "Notebook Backgrounds",
-    "Daily Note Themes"
+    "Daily Note Themes",
+    "kanban"
   ],
   "baseFontSizeAction": true,
   "baseFontSize": 17,

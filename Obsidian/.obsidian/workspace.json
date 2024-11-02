@@ -11,10 +11,20 @@
             "id": "2402a57a5b73a4c0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "kanban",
+              "state": {
+                "file": "1. Atlas/Homepage I.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Homepage I"
             }
           }
         ]
@@ -182,6 +192,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "1. Atlas/Homepage I.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -209,14 +220,15 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Homepage I"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 293.5
+    "width": 293.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -232,49 +244,49 @@
       "janitor:Janitor: scan vault": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-projects:Open projects": false,
+      "vim-toggle:Toggle Vim Mode": false,
       "periodic-notes:Open today": false,
-      "templater-obsidian:Templater": false,
-      "vim-toggle:Toggle Vim Mode": false
+      "templater-obsidian:Templater": false
     }
   },
   "active": "2402a57a5b73a4c0",
   "lastOpenFiles": [
-    "4. Journals/2024/Daily/October 20th, 2024.md",
-    "6. Tasks/Tasks.md",
-    "4. Journals/2024/2024.md",
-    "4. Journals/2024/Month/July, 2024.md",
+    "4. Journals/2024/Daily/November 2nd, 2024.md",
+    "1. Atlas/Projects Atlas.md",
+    "2. Atoms/placeholder.md",
+    "1. Atlas/Media Channels.md",
+    "1. Atlas/Journal Atlas.md",
     "1. Atlas/Inbox.md",
-    "4. Journals/2024/Daily/August 25th, 2024.md",
+    "1. Atlas/Homepage I.md",
+    "1. Atlas/Homepage II.md",
+    "10. Templates/Week Note.md",
+    "10. Templates/Week Note (Old).md",
+    "10. Templates/Tagged Note.md",
+    "10. Templates/Reference Note.md",
+    "10. Templates/Project Template.md",
+    "10. Templates/Project Proposal Note.md",
+    "10. Templates/People Template.md",
+    "10. Templates/Notebook CSS Classes.md",
+    "10. Templates/Month and Year Note.md",
+    "10. Templates/Meeting Note.md",
+    "10. Templates/Media Note.md",
+    "10. Templates/Map of Content.md",
+    "10. Templates/Literature Note.md",
+    "10. Templates/Journal Note.md",
+    "10. Templates/Class Note.md",
+    "10. Templates/Book Template.md",
+    "10. Templates/Blog Note.md",
+    "10. Templates/Atomic Note.md",
     "8. Collaborations",
     "7. Integrations/Zotero",
     "7. Integrations/Omnivore",
     "6. Tasks/CANCELLED",
-    "2. Atoms/Blogging.md",
     "6. Tasks/DOING",
     "6. Tasks/DONE",
     "6. Tasks/WAIT",
     "6. Tasks/TODO",
     "7. Integrations",
     "6. Tasks",
-    "4. Journals/2024/Daily/August 24th, 2024.md",
-    "The Art of Journalling.md",
-    "4. Journals/2024/Daily/August 23rd, 2024.md",
-    "4. Journals/2024/Daily/August 22nd, 2024.md",
-    "3. Fleetings/The Art of Journalling.md",
-    "2. Atoms/Note-taking.md",
-    "5. Resources/Literature/Learning to Study.md",
-    "2. Atoms/Workflow Guideline.md",
-    "2. Atoms/Powerhouse.md",
-    "2. Atoms/Fixing Linux Errors.md",
-    "3. Fleetings/Manuela Everhart.md",
-    "4. Journals/2024/Daily/August 21st, 2024.md",
-    "4. Journals/2024/Daily/August 20th, 2024.md",
-    "4. Journals/2024/Month/August, 2024.md",
-    "4. Journals/2024/Daily/August 19th, 2024.md",
-    "2. Atoms/Productivity Workflow.md",
-    "4. Journals/2024/Daily/August 1st, 2024.md",
-    "2. Atoms/Broken Barrel.md",
-    "2. Atoms/Bloom's Taxonomy.md",
     "5. Resources/Images/Eisenhower Matrix.png",
     "5. Resources/Images/R.A.I.L.png",
     "5. Resources/Images/The Art of Journalling.jpg",
