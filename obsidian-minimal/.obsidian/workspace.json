@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0ce28c14d6758f82",
+        "id": "a2461aec915d592b",
         "type": "tabs",
         "children": [
           {
-            "id": "28741f1460ff4fbf",
+            "id": "4c2dc449fc213c37",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tags/Curiosity.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Curiosity"
+              "title": "New tab"
             }
           }
         ]
@@ -70,11 +65,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Tags/Curiosity.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Curiosity"
+              "title": "Outline"
             }
           },
           {
@@ -115,8 +108,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -125,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tags/Curiosity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +127,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Curiosity"
+              "title": "Backlinks"
             }
           }
         ],
@@ -174,12 +166,13 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
-      "templater-obsidian:Templater": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "28741f1460ff4fbf",
+  "active": "4c2dc449fc213c37",
   "lastOpenFiles": [
+    "Tags/Curiosity.md",
     "Tags/Concept.md",
     "Tags/Analogy.md",
     "Tags/Action.md",
@@ -210,7 +203,6 @@
     "Journals/Daily/November 2nd, 2024.md",
     "Ideas/sdasd.md",
     "tasd.md",
-    "Atoms/Markdown.md",
     "Resources/Bloom's Taxonomy Examples.jpg",
     "Resources/P001 The Beginning.pdf",
     "Resources/Bloom's Taxonomy Piramid Example.png",
