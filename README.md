@@ -4,9 +4,13 @@ This is my personal Obsidian Vault containing a collection of decent amount of s
 
 Besides all the configuration, the vault has several note templates as well, ranging from the most basic notes with proprieties to dataview examples.
 
-## Footage
+## obsidian-featured
 
 ![footage](https://git.disroot.org/janpstrunn/obsidian-vault/raw/branch/main/Footage.png)
+
+## obsidian-minimal
+
+![footage](https://git.disroot.org/janpstrunn/obsidian-vault/raw/branch/main/Footage-2.png)
 
 ## Credits
 
