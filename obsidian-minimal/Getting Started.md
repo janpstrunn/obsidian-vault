@@ -84,14 +84,14 @@
 - #### Linter
 	- The hotkey is **Ctrl + Shift + L**
 	- This will adjust the whole file to keep it looking nice by removing extra lines, ordering footnotes...
-	- To showcase it go to [[Linter Showcase|this note]]
+	- To demonstrate it go to [[Linter Showcase|this note]]
 - #### Relative Line Numbers ^25d1b0
-	- As the Vim built-in feature is turned on, having this plugin helps to easily move around the file
+	- As the Vim built-in feature is relevant, having this plugin helps to easily move around the file
 - #### Style Settings
 	- This plugin is configured only on Dark Mode using the Minimal Theme
 - #### Footnotes Shortcut
 	- This plugin will make the footnote feature usage much simpler and desired to be used
-	- The hotkey is Ctrl + (backtick)
+	- The hotkey is **Alt + F**
 - #### Tag Wrangler
 	- To manage quickly and efficiently tags in bulk
 - #### Various Complements
