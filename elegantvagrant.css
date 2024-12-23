@@ -286,7 +286,7 @@ body {
     --checkbox-color-hover: var(--interactive-accent-hover);
     --checkbox-border-color: var(--text-faint);
     --checkbox-border-color-hover: var(--text-muted);
-    --checkbox-margin-inline-start: 0.75em;
+    --checkbox-margin-inline-start: 1em;
     --checklist-done-decoration: line-through;
     --checklist-done-color: var(--text-muted);
     --code-white-space: pre-wrap;
