@@ -13,7 +13,7 @@
   --egray-foreground-var-1: #d9d9d9;
   --egray-foreground-var-2: #999999;
   --egray-foreground-var-3: #d6d6d6;
-  --egray-background-var-1: #1c1c1f;
+  --egray-background-var-1: #1C1C1F;
   --egray-background-var-2: #161618;
   --egray-background-var-3: #2a2a2a;
   --egray-background-var-4: #202020;
@@ -225,7 +225,7 @@
     --color-base-00: var(--egray-background-var-2);
     --color-base-05: var(--egray-background-var-5);
     --color-base-10: var(--egray-background-var-4);
-    --color-base-20: var(--egray-background-var-1);
+    --color-base-20: #1c1c1f;
     --color-base-25: var(--egray-background-var-3);
     --color-base-30: var(--egray-background-var-2);
     --color-base-35: var(--egray);
