@@ -413,8 +413,8 @@ body {
     --h5-weight: 600;
     --h6-weight: 600;
     --header-height: 40px;
-    --hr-color: var(--background-modifier-border);
-    --hr-thickness: 2px;
+    --hr-color: #3f3f3f;
+    --hr-thickness: 3px;
     --icon-size: var(--icon-m);
     --icon-stroke: var(--icon-m-stroke-width);
     --icon-xs: 14px;
