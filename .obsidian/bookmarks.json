@@ -1,0 +1,96 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1719014725935,
+      "path": "1. Projects/Kanban - Todo List.md",
+      "title": "Todo List"
+    },
+    {
+      "type": "file",
+      "ctime": 1720742252620,
+      "path": "Atlas/World Tasks.md",
+      "title": "World Tasks"
+    },
+    {
+      "type": "file",
+      "ctime": 1736638454165,
+      "path": "Notes/Augusto Coronel.md",
+      "title": "AC"
+    },
+    {
+      "type": "file",
+      "ctime": 1737292122269,
+      "path": "Getting Started.md",
+      "title": "GS"
+    },
+    {
+      "type": "graph",
+      "ctime": 1737292081653,
+      "title": "Clean Graph",
+      "options": {
+        "collapse-filter": false,
+        "search": "-path:Journals -path:Templates  ",
+        "showTags": false,
+        "showAttachments": false,
+        "hideUnresolved": false,
+        "showOrphans": true,
+        "collapse-color-groups": false,
+        "colorGroups": [
+          {
+            "query": "tag:#people  ",
+            "color": {
+              "a": 1,
+              "rgb": 3206679
+            }
+          }
+        ],
+        "collapse-display": true,
+        "showArrow": false,
+        "textFadeMultiplier": 0,
+        "nodeSizeMultiplier": 1,
+        "lineSizeMultiplier": 1,
+        "collapse-forces": true,
+        "centerStrength": 0.518713248970312,
+        "repelStrength": 10,
+        "linkStrength": 1,
+        "linkDistance": 250,
+        "scale": 0.20684752804041026,
+        "close": false
+      }
+    },
+    {
+      "type": "group",
+      "ctime": 1737292156500,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1737292152267,
+          "path": "Notes/Canvas.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1737292148057,
+          "path": "Notes/Video.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1737292144211,
+          "path": "Notes/Audio.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1737292138971,
+          "path": "Notes/Image.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1737292133908,
+          "path": "Notes/PDF.md",
+          "title": "PDF"
+        }
+      ],
+      "title": "Queries"
+    }
+  ]
+}
