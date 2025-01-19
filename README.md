@@ -2,6 +2,9 @@
 
 - I call it a reasonably minimal vault
 
+> [!note] Note
+> Some markdown syntax here doesn't render in Github
+
 ![Obsidian Vault](https://raw.githubusercontent.com/janpstrunn/obsidian-vault/refs/heads/main/Embed/footage.jpg)
 
 # Getting Started
