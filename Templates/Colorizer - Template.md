@@ -1,0 +1,13 @@
+---
+cssclasses:
+  - green
+  - pink
+  - red
+  - blue
+  - yellow
+  - orange
+  - purple
+  - black
+  - grey
+  - pallete
+---

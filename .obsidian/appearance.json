@@ -1,0 +1,16 @@
+{
+  "accentColor": "#7c5cff",
+  "cssTheme": "",
+  "enabledCssSnippets": [
+    "img",
+    "elegantvagrant",
+    "colorizer"
+  ],
+  "baseFontSizeAction": true,
+  "baseFontSize": 18,
+  "theme": "obsidian",
+  "interfaceFontFamily": "Ubuntu Bold",
+  "showViewHeader": true,
+  "textFontFamily": "Ubuntu Bold",
+  "monospaceFontFamily": "JetBrains Mono"
+}
