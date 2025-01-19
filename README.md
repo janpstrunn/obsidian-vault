@@ -5,6 +5,11 @@ source: https://github.com/janpstrunn/obsidian-vault
 tags:
   - reference
 ---
+# My Obsidian Vault Template
+
+- I call it a reasonably minimal vault
+
+![[footage.jpg]]
 
 # Getting Started
 
@@ -21,7 +26,7 @@ tags:
 ## Vim
 
 - This is a text editor widely used for those who appreciate the advanced typing without touching the mouse. The best part of it? It's supported by default!
-- The [[Getting Started#^1e5577|Relative Line Numbers]] and [[Getting Started#^5cb940|Scroll Offset]] plugins are supposed to be used along with Vim, if you don't want to use it, so you can ignore them
+- The [[README#^1e5577|Relative Line Numbers]] and [[README#^5cb940|Scroll Offset]] plugins are supposed to be used along with Vim, if you don't want to use it, so you can ignore them
 - To enable Vim go to Editor > Advanced > Vim key bindings
 	- Don't fear the intimidating confirmation popup. Crossing this line, means you leveled up your Obsidian experience
 
@@ -35,7 +40,7 @@ tags:
 	- The Quick Switcher is a fuzzy finder tool that is just too good to be left
 - ### Journals
 	- Is where all daily notes live
-	- Now, the Journals is organized in Daily, Week and Month folders due to [[Getting Started#^vsxqag|Templater]] plugin to automate the template insertion into those notes
+	- Now, the Journals is organized in Daily, Week and Month folders due to [[README#^vsxqag|Templater]] plugin to automate the template insertion into those notes
 	- Daily notes automatically links to respective week notes, only if the week note is created at **SUNDAY**
 		- To understand why, go to [[Journal - Week Note]]
 		- If you don't want to use this template, check the [[Journal - Week Note - Vanilla]] instead
@@ -95,7 +100,7 @@ tags:
 		- `pallette` is always required to be present!
 	- You can use it to visually categorize your notes
 		- Examples
-			- All people dedicated notes have the green color, for year notes it's red, and so on 
+			- All people dedicated notes have the green color, for year notes it's red, and so on
 			- [[People - Template]]
 - This vault also have the `img` snippet, which centers all images in the vault
 - The `justify` snippet allows you to justify text
@@ -104,7 +109,7 @@ tags:
 ## Tabs
 
 > [!note] The File Explorer
-> Where is the File Explorer tab? Well, it's turned off. As I mentioned [[Getting Started#^tj1e6d|before]] Obsidian is a Markdown Text Editor, so the  File Management should be accomplished by another tool.
+> Where is the File Explorer tab? Well, it's turned off. As I mentioned [[README#^tj1e6d|before]] Obsidian is a Markdown Text Editor, so the  File Management should be accomplished by another tool.
 > Easily open the system explorer with **Alt + -** (minus).
 > Perhaps, want to easily move a note to another folder? **Ctrl + ]** (right square bracket)
 
@@ -121,7 +126,7 @@ tags:
 		- ### File Types
 			- Contains obsidian queries for different file types (PDF, Video, Audio, Image and Canvas)
 		- ### Quickmarks
-			- The predefined bookmark called GS takes you to this file [[Getting Started]]
+			- The predefined bookmark called GS takes you to this file [[README]]
 				- Just type **Ctrl + O** and write GS to quickly come back
 				- As Obsidian quick switcher allows fuzzy finder, you don't actually have to rely heavily on this. It's just an idea on how you can use it
 - ## Search
@@ -197,7 +202,7 @@ tags:
 - [Janitor](https://github.com/Canna71/obsidian-janitor)
 	- Looks for orphan notes and unused embeds, and optionally removes them
 - [Multi Properties](https://github.com/technohiker/obsidian-multi-properties)
-	- Same as [[Getting Started#^fca866|Tag Wrangler]], but for Properties
+	- Same as [[README#^fca866|Tag Wrangler]], but for Properties
 - [Paste Image Rename](https://github.com/reorx/obsidian-paste-image-rename)
 	- Allows you to rename images when pasting to Obsidian
 
@@ -207,7 +212,11 @@ tags:
 - That's why there are week, month and year based notes, so you can distill only ==what matters== for you from these daily notes. Once you finish your year note, you can not take the gold nuggets from it and add them to your [[Life]] note
 	- If you could only choose one note from your whole vault to keep, this should be the one you would keep
 
-# That's it!
+## That's it!
 
-- This is all about this vault. Feel free to change it to your personal needs, but remember the [[Getting Started#^tj1e6d|philosophy]] behind this vault
+- This is all about this vault. Feel free to change it to your personal needs, but remember the [[README#^tj1e6d|philosophy]] behind this vault
 	- Adding too much complexity will deteriorate your workflow
+
+# License
+
+This repository is licensed under the MIT License, a very permissive license that allows you to use, modify, copy, distribute and more.
