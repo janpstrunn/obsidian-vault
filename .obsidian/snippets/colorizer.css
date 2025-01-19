@@ -1,0 +1,85 @@
+.pallete {
+  background-color: var(--dark);
+  --checklist-done-color: var(--highlight);
+  --metadata-label-text-color: var(--highlight);
+  --metadata-input-text-color: var(--highlight);
+  --tag-color: var(--dark);
+  --tag-background: var(--primary);
+  --hr-color: var(--primary);
+  --blockquote-border-color: var(--primary);
+  --interactive-accent: var(--primary);
+  --collapse-icon-color-collapsed: var(--primary);
+  --checkbox-color: var(--primary);
+  --checkbox-marker-color: var(--dark);
+  --checkbox-color-hover: var(--highlight);
+  --checkbox-border-color: var(--highlight);
+  --list-marker-color: var(--highlight);
+  --code-background: #101010;
+  --code-normal: var(--primary);
+  --background-modifier-border-focus: var(--primary);
+  --background-modifier-border: color-mix(in srgb, var(--highlight) 60%, transparent);
+  --background-modifier-hover: color-mix(in srgb, var(--highlight) 60%, transparent);
+  --pill-cover-hover: color-mix(in srgb, var(--highlight) 60%, transparent);
+  --inline-title-color: var(--highlight);
+}
+
+.pink {
+  --highlight: #f120fc;
+  --primary: #f45ffc;
+  --dark: #1c0e1b;
+}
+.purple {
+  --highlight: #7c5cff;
+  --primary: #8720fc;
+  --dark: #130e1c;
+}
+.blue {
+  --highlight: #20dbfc;
+  --primary: #5ffcfc;
+  --dark: #0e1c1b;
+}
+.green {
+  --highlight: #45fc20;
+  --primary: #89fc5f;
+  --dark: #151c0e;
+}
+.yellow {
+  --highlight: #dffc20;
+  --primary: #f9fc5f;
+  --dark: #1c180e;
+}
+.orange {
+  --highlight: #fcab20;
+  --primary: #fcae5f;
+  --dark: #1c120e;
+}
+.red {
+  --highlight: #fc2020;
+  --primary: #fc5f62;
+  --dark: #1c0e0e;
+}
+.black {
+  --highlight: #d9d9d9;
+  --primary: #ffffff;
+  --dark: #000000;
+}
+.grey {
+  --highlight: #d9d9d9;
+  --primary: #d9d9d9;
+  --dark: #191919;
+}
+
+.pallete :is(a:link, .cm-hmd-internal-link) {
+  color: var(--primary);
+}
+.pallete :is(a:hover, .cm-hmd-internal-link:hover) {
+  color: var(--highlight);
+}
+.pallete :is(i, em, span.cm-em) {
+  color: var(--primary);
+}
+
+:is(.pink, .purple, .blue, .green, .yellow, .orange, .red, .black, .grey)
+  svg {
+  color: color-mix(in srgb, var(--highlight) 60%, transparent);
+}
