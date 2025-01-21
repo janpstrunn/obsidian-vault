@@ -17,6 +17,12 @@
 > [!important] Hey!
 > This is a guide on how you should use this vault efficiently, by my three years of Obsidian experience. If you don't want to follow it, don't excitate to delete this file!
 
+## Markdown
+
+- See how this theme changes markdown
+	- [[Markdown Showcase]]
+	- [[Markdown & LaTeX Cheatsheat (Basics)]]
+
 # Understanding this vault peculiarities
 
 ## Vim
@@ -205,7 +211,7 @@
 ## Daily Notes
 
 - Have you ever thought about, making daily notes is a ==waste of time==? Maybe, because they grow constantly and you can't review them all
-- That's why there are week, month and year based notes, so you can distill only ==what matters== for you from these daily notes. Once you finish your year note, you can not take the gold nuggets from it and add them to your [[Life]] note
+- That's why there are week, month and year based notes, so you can distill only ==what matters== for you from these daily notes. Once you finish your year note, you can now take the gold nuggets from it and add them to your [[Life]] note
 	- If you could only choose one note from your whole vault to keep, this should be the one you would keep
 
 ## That's it!
