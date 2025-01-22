@@ -36,7 +36,7 @@ git clone https://github.com/janpstrunn/obsidian-vault.git
 
 ## Getting Started
 
-This vault is relatively minimal with very **few plugins** (10), that doesn't add any further than what Obsidian does well as a Markdown Text Editor. I mean: No Task Management, Kanban, Dataview and other big plugins that add breaking changes to Obsidian. **These tasks should be solved by other softwares**
+This vault is aims to be used with very **few plugins**, that doesn't add any further than what Obsidian does well as a Markdown Text Editor. I mean: No Task Management, Kanban, Dataview and other big plugins that add breaking changes to Obsidian. **These tasks should be solved by other softwares**
 
 ### Understand the Vault Peculiarities
 
