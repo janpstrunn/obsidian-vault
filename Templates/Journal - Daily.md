@@ -4,26 +4,26 @@ week: '[[<%tp.date.now("YYYY, wo")%> Week]]'
 
 ### Agenda
 
-- [ ]
+- [ ] 
 
 ### Journal
 
--
+- 
 
 ### Diary
 
-- **Palavras-chave**
-	-
-- **Emoções**
-	-
-- **Gratidão**
-	1.
-	2.
-	3.
+- **Key-words**
+	- 
+- **Emotions**
+	- 
+- **Gratitude**
+	1. 
+	2. 
+	3. 
 
 ### Review
 
--
+- 
 
 %%
 What could I do to improve myself based on today?
