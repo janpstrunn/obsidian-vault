@@ -203,6 +203,33 @@ This vault has currently 23 templates, which you can use and take inspiration fr
 	- Project - Template
 	- Project Proposal Note
 
+##### Naming Convention
+
+Naming files correctly is the core for better retrieval. Here are some tips on how you can set these conventions yourself.
+
+```markdown
+# Images
+
+## Wallpaper
+wppr-horizon.jpg
+## Avatar
+avatar-me.jpg
+## Meme
+meme-risitas.jpg
+## People
+pp-john-doe.jpg
+
+# Markdown
+
+## Languages
+lang-german.md
+lang-python-pandoc.md
+## Templates
+template-article.md
+## Memories
+mem-letter.md
+```
+
 #### Tabs
 
 ##### The File Explorer
