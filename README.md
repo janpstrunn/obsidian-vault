@@ -158,7 +158,7 @@ The used snippets in this vault are from [janpstrunn/obsidian-snippets](https://
 
 ##### Templates
 
-This vault has currently 23 templates, which you can use and take inspiration from. 
+This vault has currently 23 templates, which you can use and take inspiration from.
 
 - **Information Type**
 	- To easily apply information type tags, without having to manually insert it, there are the five tags I mentioned before as templates:
@@ -183,7 +183,7 @@ This vault has currently 23 templates, which you can use and take inspiration fr
 		- **Review** - Your thoughts you had in that day, with some other commented questions to help you reflect
 - **Source**
 	- `Source - Template`
-		- If your note can include the original work, use it 
+		- If your note can include the original work, use it
 	- To easily apply source tags, just like information type templates
 		- `Source - Article`
 		- `Source - Blog Template`
@@ -283,7 +283,7 @@ If you are up to using plugins, these fits perfectly into Obsidian vanilla exper
 
 ##### Vim Must Have
 
-- [Obsidian Relative Line Numbers](https://github.com/nadavspi/obsidian-relative-line-numbers) 
+- [Obsidian Relative Line Numbers](https://github.com/nadavspi/obsidian-relative-line-numbers)
 	- Line numbers are relative to cursor position.
 - [Scroll Offset](https://github.com/lijyze/scroll-offset)
 	- When scrolling using hotkeys, the page moves before the cursor reaches the bottom of the screen
@@ -320,7 +320,6 @@ If you are up to using plugins, these fits perfectly into Obsidian vanilla exper
 	- ~~Allows you to convert images to compress them~~
 		- ~~Recommended to set JPG at 75% quality~~
 		- ~~An alternative to JPG is AVIF, which is not supported by Image Converter, but has higher compression results~~
-			- ~~I have my own alternative to that, if you know `shell script`, check this out!~~
 	- Obsidian is not an image converter. You may use an external tool for image compression, like I've done myself
 		- [janpstrunn/__convert-avif.sh](https://github.com/janpstrunn/dotfiles/blob/main/scripts/__convert-avif.sh)
 		- [janpstrunn/__update-image-links.sh](https://github.com/janpstrunn/dotfiles/blob/main/scripts/__update-image-links.sh)
