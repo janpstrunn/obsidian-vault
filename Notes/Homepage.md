@@ -7,26 +7,27 @@ tags:
 > [!note] Greetings!
 > This is the main page to navigate through this vault
 
-- [[Getting Started]]
+- [[README]]
+- [[Tips]]
 
 ## Tags
 
-- ## By area
+- ## Area
 	- #personal
-- ## By information type
+- ## Information Type
 	- #procedure 
 	- #analogy 
 	- #concept 
 	- #evidence 
 	- #reference 
-- ## By entity
+- ## Entity
 	- #people
 		- #people/friend
 		- #people/coworker
 		- #people/familiar
 	- #place
 	- #object
-- ## By origin
+- ## Source
 	- #source 
 		- #source/blog 
 		- #source/book 
