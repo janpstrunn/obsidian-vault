@@ -43,7 +43,7 @@ This vault is relatively minimal with very **few plugins** (10), that doesn't ad
 #### Vim Text Editor
 
 - This is a text editor widely used for those who appreciate the advanced typing without touching the mouse. The best part of it? It's supported by default!
-- The [[README#^1e5577|Relative Line Numbers]] and [[README#^5cb940|Scroll Offset]] plugins are supposed to be used along with Vim, if you don't want to use it, so you can ignore them
+- The [Relative Line Numbers](https://github.com/nadavspi/obsidian-relative-line-numbers)  and [Scroll Offset](https://github.com/lijyze/scroll-offset) plugins are supposed to be used along with Vim, if you don't want to use it, so you can ignore them
 - Vim is not a straight away tool. It will require a lot of practice to see its advantages over standard typing. I recommend checking some cheat sheets and videos before trying it
 - To enable Vim go to Editor > Advanced > Vim key bindings
 	- Don't fear the intimidating confirmation popup. Crossing this line, means you leveled up your Obsidian experience
